@@ -75,7 +75,7 @@ export const videos = [
         "https://yt3.ggpht.com/ytc/APkrFKa6XiLa13mMVPzkmmTBcgNPjjqCGPrY86KfJFmf5w=s48-c-k-c0x00ffffff-no-rj",
     },
     views: 112,
-    postedAt: new Date("2023-9-19"),
+    postedAt: new Date("2023-09-19"),
     duration: 4343,
     thumbnailUrl: "https://i.ytimg.com/vi/apdD69J4bEc/maxresdefault.jpg",
     videoUrl:
